@@ -42,17 +42,20 @@ just the files on your device. Being prepared for release on Google Play.
 
 ## Toolkit
 
-<img alt="Python" src="https://img.shields.io/badge/-Python-161B22?style=flat-square&logo=python&logoColor=FFD43B">
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E">
-<img alt="MQL5" src="https://img.shields.io/badge/-MQL5-161B22?style=flat-square">
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26">
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-161B22?style=flat-square&logo=css&logoColor=3B82F6">
-<br />
-<img alt="Android" src="https://img.shields.io/badge/-Android-161B22?style=flat-square&logo=android&logoColor=3DDC84">
-<img alt="MetaTrader 5" src="https://img.shields.io/badge/-MetaTrader%205-161B22?style=flat-square">
-<img alt="Flask" src="https://img.shields.io/badge/-Flask-161B22?style=flat-square&logo=flask&logoColor=white">
-<img alt="WebSockets" src="https://img.shields.io/badge/-WebSockets-161B22?style=flat-square">
-<img alt="Git" src="https://img.shields.io/badge/-Git-161B22?style=flat-square&logo=git&logoColor=F05032">
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-161B22?style=flat-square&logo=python&logoColor=FFD43B">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E">
+  <img alt="MQL5" src="https://img.shields.io/badge/-MQL5-161B22?style=flat-square">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26">
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-161B22?style=flat-square&logo=css&logoColor=3B82F6">
+</p>
+<p>
+  <img alt="Android" src="https://img.shields.io/badge/-Android-161B22?style=flat-square&logo=android&logoColor=3DDC84">
+  <img alt="MetaTrader 5" src="https://img.shields.io/badge/-MetaTrader%205-161B22?style=flat-square">
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-161B22?style=flat-square&logo=flask&logoColor=white">
+  <img alt="WebSockets" src="https://img.shields.io/badge/-WebSockets-161B22?style=flat-square">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-161B22?style=flat-square&logo=git&logoColor=F05032">
+</p>
 
 ## Let's build something
 
