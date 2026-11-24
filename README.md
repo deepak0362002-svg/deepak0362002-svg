@@ -33,12 +33,29 @@ just the files on your device. Being prepared for release on Google Play.
 
 ## Selected work
 
-| Project | What it does | Stack |
-| :------ | :----------- | :---- |
-| **MT5 SMA Crossover Bot** | Python bot that trades SMA crossovers, with a live HTML dashboard and settings you can hot-reload without a restart | `Python` `MetaTrader 5` |
-| **NSE/BSE Arbitrage Dashboard** | Local dashboard on Angel One SmartAPI that matches dual-listed stocks and surfaces live price gaps beside the estimated profit | `Python` `Flask` |
-| **Trading Battle Arena** | 1v1 gamified trading battle with an arcade-style UI, connected live to MetaTrader 5 through a Python WebSocket bridge | `Python` `WebSocket` |
-| **Rocket Landing Simulator** | Browser simulator with a pure-JS neural network trained through a six-level curriculum, plus an LLM layer that explains what the agent is doing | `JavaScript` |
+**MT5 SMA Crossover Bot**<br>
+Python bot that trades SMA crossovers, with a live HTML dashboard and settings you
+can hot-reload without a restart.
+
+`Python` `MetaTrader 5`
+
+**NSE/BSE Arbitrage Dashboard**<br>
+Local dashboard on Angel One SmartAPI that matches dual-listed stocks and surfaces
+live price gaps beside the estimated profit.
+
+`Python` `Flask`
+
+**Trading Battle Arena**<br>
+1v1 gamified trading battle with an arcade-style UI, connected live to MetaTrader 5
+through a Python WebSocket bridge.
+
+`Python` `WebSocket`
+
+**Rocket Landing Simulator**<br>
+Browser simulator with a pure-JS neural network trained through a six-level
+curriculum, plus an LLM layer that explains what the agent is doing.
+
+`JavaScript`
 
 ## Toolkit
 
