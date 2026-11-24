@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="assets/banner.svg" alt="Deepak — Android developer and algorithmic trading bot builder" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Deepak — Android developer and algorithmic trading bot builder" width="100%" />
 </div>
 
 <p align="center">
